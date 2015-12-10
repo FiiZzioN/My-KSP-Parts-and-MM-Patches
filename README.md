@@ -2,7 +2,7 @@
 
 ----------
 
-Description:
+<h5>Description:
 
 Custom Parts, Edited Parts, and Personal Module Manager Paches to make my installation of Kerbal Space Program the best it can be. The goal is simple, make the game play how I feel it should play. Part progression is effected quite a bit and is revised quite often due to the fact that KSP is still being actively developed (at the time of writing this) along with the fact that I also like to change things up a bit.
 
