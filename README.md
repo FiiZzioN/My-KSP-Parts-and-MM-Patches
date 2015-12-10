@@ -19,7 +19,8 @@ Any part models, meshes, textures, animations, ect... belong to their respective
 
 -----------------------
 
-<h5>Original time of writing: December 8th, 2015
-<h5>Edted: December 10th, 2015
+Original time of writing: December 8th, 2015
+
+Edted: December 10th, 2015
 
 ------------------------------
