@@ -1,0 +1,192 @@
+@TechTree:FINAL
+{
+	@RDNode,0 {
+		@cost = 0
+	}
+	@RDNode,1 {
+		@cost = 
+	}
+	@RDNode,2 {
+		@cost = 
+	}
+	@RDNode,3 {
+		@cost = 
+	}
+	@RDNode,4 {
+		@cost = 
+	}
+	@RDNode,5 {
+		@cost = 
+	}
+	@RDNode,6 {
+		@cost = 
+	}
+	@RDNode,7 {
+		@cost = 
+	}
+	@RDNode,8 {
+		@cost = 
+	}
+	@RDNode,9 {
+		@cost = 
+	}
+	@RDNode,10 {
+		@cost = 
+	}
+	@RDNode,11 {
+		@cost = 
+	}
+	@RDNode,12 {
+		@cost = 
+	}
+	@RDNode,13 {
+		@cost = 
+	}
+	@RDNode,14 {
+		@cost = 
+	}
+	@RDNode,15 {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+	@RDNode, {
+		@cost = 
+	}
+}

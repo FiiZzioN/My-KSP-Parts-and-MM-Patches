@@ -1,0 +1,17 @@
+NearFuture uses its own version of "LqdHydrogen" instead of the one packaged with the "CommunityResourcePack".
+
+It's "RESOURCE_DEFINITION" should look like this:
+
+RESOURCE_DEFINITION
+{
+  name = LqdHydrogen
+  density = 0.000625
+  unitCost = 0.5
+  hsp = 9690 
+  vsp = 448500 
+  flowMode = STACK_PRIORITY_SEARCH
+  transfer = PUMP
+  isTweakable = true
+  isVisible = true
+}
+
