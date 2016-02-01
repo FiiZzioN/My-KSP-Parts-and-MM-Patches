@@ -14,7 +14,7 @@ If someone should find this repository and wonders what it's about, hopefully th
 
 **Legal Information:**
 
-Any part models, meshes, textures, animations, ect... belong to their respective owners. I take no credit in making them, the only thing I've done to the "custom" parts is edit their configs to have specific values to my liking. If any of the part's original authors find this and want me to remove them, just submit am issue report. This repository is in no way trying to distribute parts behind the author's back, it's purpose is to have something like an online backup, to-do list, and version control. This repository will never be linked anywhere, ever, period. 
+Any part models, meshes, textures, animations, ect... belong to their respective owners. I take no credit in making them, the only thing I've done to the "custom" parts is edit their configs to have specific values to my liking. If any of the part's original authors find this and want me to remove them, just submit an issue report. This repository is in no way trying to distribute parts behind the author's back, it's purpose is to have something like an online backup, to-do list, and version control. This repository will never be linked anywhere, ever, period. 
 
 -----------------------
 
