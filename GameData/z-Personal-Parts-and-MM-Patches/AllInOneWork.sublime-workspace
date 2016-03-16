@@ -11,7 +11,23 @@
 			"file": "Module Manager Patches/Squad/Personal Squad Edits.cfg",
 			"settings":
 			{
-				"buffer_size": 15732,
+				"buffer_size": 15975,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/VenStockRevamp/Part Bin/ExtraElectrical.cfg",
+			"settings":
+			{
+				"buffer_size": 3686,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/FuelTanksPlus/Radial/TPtankR03.cfg",
+			"settings":
+			{
+				"buffer_size": 1541,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,7 +35,31 @@
 			"file": "Module Manager Patches/Custom_All-In-One_Parts.cfg",
 			"settings":
 			{
-				"buffer_size": 7518,
+				"buffer_size": 10605,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Command/mk1Cockpits/mk1InlineCockpit.cfg",
+			"settings":
+			{
+				"buffer_size": 1979,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/ThunderAerospace/TacLifeSupport/MM_StockPartChanges.cfg",
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Module Manager Patches/Corvus/Personal Corvus Edits.cfg",
+			"settings":
+			{
+				"buffer_size": 1852,
 				"line_ending": "Windows"
 			}
 		},
@@ -48,66 +88,74 @@
 			}
 		},
 		{
-			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-3/radiator-conformal-3.cfg",
+			"file": "Module Manager Patches/VenStockRevamp/Personal VenStockRevamp Edits.cfg",
 			"settings":
 			{
-				"buffer_size": 1772,
+				"buffer_size": 3995,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-2/radiator-conformal-2.cfg",
+			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/GPOSpeedFuelPump/GPOSpeedFuelPump.cfg",
 			"settings":
 			{
-				"buffer_size": 1612,
+				"buffer_size": 2047,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-1/radiator-conformal-1.cfg",
+			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/KScale2/KScale2.cfg",
 			"settings":
 			{
-				"buffer_size": 1655,
+				"buffer_size": 3729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 2.cfg",
+			"settings":
+			{
+				"buffer_size": 10638,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-fixed-1/radiator-fixed-1.cfg",
+			"file": "Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 3.cfg",
 			"settings":
 			{
-				"buffer_size": 1436,
+				"buffer_size": 12300,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-fixed-2/radiator-fixed-2.cfg",
+			"file": "Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 4.cfg",
 			"settings":
 			{
-				"buffer_size": 1434,
+				"buffer_size": 6376,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-25-1.cfg",
+			"file": "Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 5.cfg",
 			"settings":
 			{
-				"buffer_size": 1586,
+				"buffer_size": 4658,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-125-1.cfg",
+			"file": "/E/Program Files (x86)/Steam/SteamApps/common/Grand Theft Auto V/fov.ini",
 			"settings":
 			{
-				"buffer_size": 1596,
+				"buffer_size": 537,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-375-1.cfg",
+			"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/RealPlume-Stock/Squad/liquidEngine1-2.cfg",
 			"settings":
 			{
-				"buffer_size": 1594,
+				"buffer_size": 476,
 				"line_ending": "Windows"
 			}
 		}
@@ -211,15 +259,57 @@
 	[
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/FuelTanksPlus",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/GPOSpeedFuelPump",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/RealPlume-Stock",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/RealPlume-Stock/Squad",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches"
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/RealPlume Configs",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/z_Personal Gameplay Edits"
 	],
 	"file_history":
 	[
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DIa0.241/NativeTrainer.asi",
+		"/E/My Documents/Rockstar Games/GTA V/Profiles/B0E5B93A/SGTA50008",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/KScale2/Compatability/EVE_KScale2.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/EVAEnhancements/EVAEnhancements.cfg",
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DIa0.362/RemoteTech_Settings.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/KScale2/Compatability/RemoteTech_KScale2.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/RealPlume Configs/Personal Squad RealPlume.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/KScale2/KScale2.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-2/radiator-conformal-2.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/VenStockRevamp/VSR_CryoX_ZBO_Patch.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-1/radiator-conformal-1.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-fixed-1/radiator-fixed-1.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-fixed-2/radiator-fixed-2.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-25-1.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-125-1.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-375-1.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/RemoteTech/RemoteTech_Settings.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-3/radiator-conformal-3.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Command/mk3CockpitShuttle/mk3CockpitShuttle.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/RSCapsuledyne/TaurusHCV-TAC-LS.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Electrical/z-200Battery/z-200Battery.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Electrical/z-400Battery/z-400Battery.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/FuelTanksPlus/Radial/TPtankR01.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/FuelTanksPlus/Radial/TPtankR02.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/KScale2/Compatability/RemoteTech_KScale2.cfg.bak",
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DIa0.766/Contract_Bug_Workaround.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Parts/StnSciAttachOTron/part.cfg",
+		"/E/Program Files (x86)/Steam/SteamApps/common/Yet Another Zombie Defense/Content/Fonts/zombie_read_this.txt",
+		"/E/Program Files (x86)/Steam/SteamApps/common/Yet Another Zombie Defense/Content/level.xml",
+		"/E/Program Files (x86)/Steam/SteamApps/common/Yet Another Zombie Defense/Content/Effects/MainEffect.xnb",
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DIa0.379/AvionicsRing.cfg",
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DIa0.174/ServiceModule.cfg",
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DIa0.057/SDHI_SMS_MMPatch_TACLifeSupport.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/PlanetaryBaseInc/Parts/Structural/Gangways/gangway_2end_3.cfg",
+		"/S/CC",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/ThunderAerospace/TacLifeSupport/MM_AddLifeSupportModule.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/ThunderAerospace/TacLifeSupport/MM_AddResources.cfg",
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/ThunderAerospace/TacLifeSupport/TacResources.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/FuelTanksPlus/FuelTanksPlus_FuelSwitch.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/PlanetaryBaseInc/Parts/Structural/Gangways/gangway_2end_2.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/PlanetaryBaseInc/Parts/Structural/Gangways/gangway_2end_1.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/PlanetaryBaseInc/Parts/Structural/Gangways/gangway_2end_3.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/PlanetaryBaseInc/Parts/Structural/Gangways/gangway_3end_1.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/PlanetaryBaseInc/Parts/Structural/Gangways/gangway_3end_2.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/PlanetaryBaseInc/Parts/Structural/Gangways/gangway_4end_1.cfg",
@@ -277,7 +367,6 @@
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/RealChute/Parts/cone_chute.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/KSCSwitcher/LaunchSites.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/KerbalIspDifficultyScaler MM Configs/KW Solids ISP Edits.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/RemoteTech/RemoteTech_Settings.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/RealPlume-Stock/KWRocketry/KWsrbGlobeI.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Aero/wingletDeltaDeluxe/wingletDeltaDeluxe.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Corvus/Corvus_RealChute.cfg",
@@ -307,43 +396,7 @@
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/JettisonFuel/JettisonFuel.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/VenStockRevamp/Part Bin/ExtraEngines.cfg",
 		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Command/Mk1-2Pod/mk1-2CommandPod.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/BoulderCo/Clouds/cloudLayers.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Kopernicus/Config/System.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/BoulderCo/Clouds/cloudLayers-Astronomer'sVisualPack.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/SCANsat/MM_Parts/RPMMapTraq.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/SCANsat/MM_Parts/MFDPatches.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/SCANsat/Resources/SCANresource.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/JSI/RPMPodPatches/PatchesStock/mk3cockpit-patch.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/JSI/RPMPodPatches/PatchesMod/kp0110-pod-patch.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/JSI/RasterPropMonitor/Plugins/reduce-iva-cpu-usage.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/JSI/RasterPropMonitor/Plugins/invisible-pods-handling.cfg",
-		"/C/Users/Nick/AppData/Local/Temp/Rar$DIa0.976/HeatshieldCenterSection.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/SSTU/Resources/Resources.cfg",
-		"/C/Users/Nick/AppData/Local/Temp/Rar$DIa0.911/settings.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/64bit Docking Port Removal.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Diazo/AGExt/AGExt.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Diazo/AutoAction/AutoAction.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 1.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/CTN/3Sat/Parts/Small/small3Sat.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/CTN/3Sat/Parts/Small Solar/3satSmallSolar.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/CTN/3Sat/Parts/Tiny/tiny3Sat.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/CTN/3Sat/Parts/Tiny Solar/3satTinySolar.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/RemoteTech 2 MM Configs/Personal RemoteTech Part Settings.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/RemoteTech_Antennas.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/RemoteTech_Squad_Antennas.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/LongDish1/part.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/LongDish2/part.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/ShortAntenna1/part.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/ShortDish1/part.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/LongAntenna2/part.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/LongAntenna3/part.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/ShortDish2/part.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/RemoteTech 2 MM Configs/RemoteTech Part Edits.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/z_Personal Gameplay Edits/Overall Gameplay Effect Edits.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/z-Personal-Parts-and-MM-Patches/Module Manager Patches/KerbalIspDifficultyScaler MM Configs/KW Solids ISP Edits.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RLA_Stockalike/Parts/Engine/mp_medium_vac/medium_vac.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/GigaDish2/part.cfg",
-		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5/GameData/RemoteTech/Parts/GigaDish1/part.cfg"
+		"/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/BoulderCo/Clouds/cloudLayers.cfg"
 	],
 	"find":
 	{
@@ -361,6 +414,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ResearchBodies",
+			"GPOSpeedFuelPump",
+			"Electrical",
+			"Omni = 50000000",
+			"2000000",
+			"				ANTENNA\n				{\n					Omni = 1E+06\n				}",
+			"				ANTENNA\n				{\n					Omni = 1E+12\n				}",
+			"\\",
+			":NEEDS[TacLifeSupport]",
+			"RESOURCE",
+			"maxAmount",
+			"250",
+			"0",
+			"222.08",
+			"1.45",
+			"2.20",
 			"gpospeed",
 			"0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05",
 			",",
@@ -472,23 +541,7 @@
 			"Engine",
 			"science_module",
 			"in_satish_dhawan",
-			"Utility",
-			"BahaSP",
-			"#",
-			"~",
-			"SolidFuel",
-			"lead",
-			"\n		amount = ",
-			"maxAmount = ",
-			"600",
-			"200",
-			"Electrical",
-			"	@category = Propulsion",
-			"ThunderAerospace",
-			":FOR[BahaSP]:NEEDS[DeadlyReentry]",
-			"	@maxTemp = 850\n	@emissiveConstant = 0.85\n	@thermalMassModifier = 1\n	%skinMaxTemp = 2706\n	%skinThermalMassModifier = 0.436\n	%skinInternalConductionMult = 0.0000105\n	%skinMassPerArea = 0.815\n	%leaveTemp = True\n	MODULE\n	{\n		name = ModuleAeroReentry\n	}\n	MODULE\n	{\n    	name = ModuleAnimation2Value\n		animationName = LandingGearLargeDeploy\n		valueName = emissiveConstant\n    	valueCurve\n		{\n			key = 0.0 0.85\n			key = 1.0 0.4\n		}\n	}",
-			"mk1",
-			"	@maxTemp = 850\n	@emissiveConstant = 0.85\n	%skinMaxTemp = 2706\n	%skinThermalMassModifier = 0.436\n	%skinInternalConductionMult = 0.0000105\n	%skinMassPerArea = 0.815\n	%leaveTemp = True"
+			"Utility"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -515,15 +568,191 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15732,
+						"buffer_size": 15975,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15241,
-								15244
+								10939,
+								10856
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/VenStockRevamp/Part Bin/ExtraElectrical.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								47
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/FuelTanksPlus/Radial/TPtankR03.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1337,
+								1337
 							]
 						],
 						"settings":
@@ -591,27 +820,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 13922.0,
+						"translation.y": 337.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 3,
 					"file": "Module Manager Patches/Custom_All-In-One_Parts.cfg",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7518,
+						"buffer_size": 10605,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2593,
-								2593
+								1472,
+								1472
 							]
 						],
 						"settings":
@@ -678,17 +907,281 @@
 							"open_with_edit": true,
 							"spell_check": true,
 							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
+					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Command/mk1Cockpits/mk1InlineCockpit.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								666,
+								648
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/ThunderAerospace/TacLifeSupport/MM_StockPartChanges.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Module Manager Patches/Corvus/Personal Corvus Edits.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								456
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Utility/mk3CargoBay/long.cfg",
 					"semi_transient": false,
 					"settings":
@@ -772,11 +1265,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 8,
 					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Utility/mk3CargoBay/medium.cfg",
 					"semi_transient": false,
 					"settings":
@@ -860,11 +1353,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 9,
 					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/Squad/Parts/Utility/mk3CargoBay/short.cfg",
 					"semi_transient": false,
 					"settings":
@@ -948,7 +1441,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 17,
 					"type": "text"
 				}
 			]
@@ -958,460 +1451,20 @@
 			"sheets":
 			[
 				{
-					"buffer": 5,
-					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-3/radiator-conformal-3.cfg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1772,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 180.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-2/radiator-conformal-2.cfg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1612,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-conformal-1/radiator-conformal-1.cfg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1655,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-fixed-1/radiator-fixed-1.cfg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1436,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-fixed-2/radiator-fixed-2.cfg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1434,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
 					"buffer": 10,
-					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-25-1.cfg",
+					"file": "Module Manager Patches/VenStockRevamp/Personal VenStockRevamp Edits.cfg",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1586,
+						"buffer_size": 3995,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								465,
+								465
 							]
 						],
 						"settings":
@@ -1419,31 +1472,51 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1453,141 +1526,33 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_regex_content"
 							],
 							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-125-1.cfg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1596,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 312.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
-					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/HeatControl/Parts/Radiators/radiator-surface/radiator-surface-375-1.cfg",
+					"buffer": 11,
+					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/GPOSpeedFuelPump/GPOSpeedFuelPump.cfg",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1594,
+						"buffer_size": 2047,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1594,
-								1594
+								1319,
+								1319
 							]
 						],
 						"settings":
@@ -1595,21 +1560,554 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/KScale2/KScale2.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 2.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 3.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 4.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Module Manager Patches/z_Personal Gameplay Edits/Personal Gameplay Edits 5.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3406,
+								3406
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2068.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/E/Program Files (x86)/Steam/SteamApps/common/Grand Theft Auto V/fov.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -1620,11 +2118,6 @@
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1635,30 +2128,118 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Steam Swap Out/SteamApps/common/Kerbal Space Program V1.0.5 Working x64/GameData/RealPlume-Stock/Squad/liquidEngine1-2.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								311
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
-								"bh_angle_content"
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 420.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
@@ -1692,7 +2273,7 @@
 		"cols":
 		[
 			0.0,
-			0.513173652695,
+			0.457188359349,
 			1.0
 		],
 		"rows":
@@ -1719,6 +2300,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"personalven",
+				"z-Personal-Parts-and-MM-Patches\\Module Manager Patches\\VenStockRevamp\\Personal VenStockRevamp Edits.cfg"
+			],
+			[
+				"personlasquad",
+				"z-Personal-Parts-and-MM-Patches\\Module Manager Patches\\Squad\\Personal Squad Edits.cfg"
+			],
+			[
+				"personalcor",
+				"z-Personal-Parts-and-MM-Patches\\Module Manager Patches\\Corvus\\Personal Corvus Edits.cfg"
+			],
 			[
 				"personalsquad",
 				"z-Personal-Parts-and-MM-Patches\\Module Manager Patches\\Squad\\Personal Squad Edits.cfg"
@@ -1778,10 +2371,6 @@
 			[
 				"squadisru",
 				"Squad\\Parts\\Resources\\ISRU\\ISRU.cfg"
-			],
-			[
-				"personalven",
-				"z-Personal-Parts-and-MM-Patches\\Module Manager Patches\\VenStockRevamp Edits\\Personal VenStockRevamp Edits.cfg"
 			],
 			[
 				"community",
@@ -1992,7 +2581,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -2000,7 +2589,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 250.0,
+	"side_bar_width": 265.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
